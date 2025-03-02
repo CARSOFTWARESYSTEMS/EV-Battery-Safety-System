@@ -1,6 +1,4 @@
-# AI-Powered EV Battery Fire Prevention System
-
-## How to Collect SOC & SOH from EV BMS
+# How to Collect SOC & SOH from EV BMS
 
 ## 1. Understand BMS Communication Protocols
 Battery Management Systems (BMS) communicate SOC (State of Charge) and SOH (State of Health) data using industry-standard protocols:
@@ -120,6 +118,7 @@ http://localhost:5000/battery_status
 ## Contact
 - **EV.Engineer**: Sudarshana Karkala 
 - **Email**: carsoftwaresystems@gmail.com
-- **Website**: https://carsoftwaresystems.com
-- **More Details**: https://carsoftwaresystems.com/EVE&D/AIPoweredEVBatteryFirePreventionSystem.pdf
+
+
+
 
